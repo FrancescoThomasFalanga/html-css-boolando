@@ -74,3 +74,30 @@ img[src*="webp"] {
     font-size: 14px;
 }
 /* /main */
+
+
+/* footer */
+footer {
+    background-color: #1a1a1a;
+    color: white;
+}
+/* ___________________________________ */
+.footer-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    margin-top: 20px;
+    line-height: 30px;
+}
+/* ___________________________________ */
+.info {
+    font-size: 12px;
+    padding-right: 10px;
+}
+
+i[class*="brands"] {
+    padding-right: 10px;
+}
+
+/* /footer */
