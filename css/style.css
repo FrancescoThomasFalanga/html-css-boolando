@@ -30,10 +30,12 @@ nav {
     height: 60px;
 }
 /* ___________________________________ */
-span#section {
+.categories {
     color: white;
     font-weight: bold;
     font-size: 12px;
+    text-decoration: none;
+    padding-right: 10px;
 }
 /* ___________________________________ */
 img.logo {
